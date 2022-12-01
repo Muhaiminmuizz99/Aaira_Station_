@@ -1,4 +1,4 @@
-package com.example.aairastation
+package com.example.aairastation.ui
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
