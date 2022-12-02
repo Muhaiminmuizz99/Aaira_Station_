@@ -16,3 +16,8 @@ data class Food(
     val available: Boolean = true,
     val description: String = "",
 ) : Parcelable
+
+// Temporary data
+val hardCodedList = listOf(
+    Food()
+)
